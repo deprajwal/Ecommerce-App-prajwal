@@ -5,21 +5,6 @@ Here you will learn the **end-to-end deployment of an E-Commerce Application** u
 
 ---
 
-## 📺 Watch the Full Deployment Tutorial
-[![Watch Now](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube&logoColor=white)]([https://youtu.be/l-5JQcI_CH0])
-
----
-
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/Connect-Kastro%20Kiran-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kastro-kiran/)
-
----
-
-## 💬 Join the DevOps Community
-[![WhatsApp Group](https://img.shields.io/badge/Join-WhatsApp%20Group-green?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)
-
----
-
 ### ⚡ What you’ll find here:
 - Complete CI/CD pipeline for E-Commerce Application  
 - Kubernetes, Docker, Jenkins, and monitoring setup  
